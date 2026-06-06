@@ -4,17 +4,7 @@ services:
   app:
     build: .
     env_file: .env
+    stdin_open: true
+    tty: true
     volumes:
       - ./reports:/app/reports
-    # Uncomment if your app needs network access to a target
-    # network_mode: host
-
-  # Uncomment to add a database
-  # db:
-  #   image: postgres:16-alpine
-  #   env_file: .env
-  #   volumes:
-  #     - db_data:/var/lib/postgresql/data
-
-# volumes:
-#   db_data:
