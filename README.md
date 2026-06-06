@@ -59,10 +59,9 @@ Bu proje, girdi tabanlı web zafiyetlerine karşı koruma sağlamak amacıyla ge
 
 ---
 
-## 🗂 Repository Structure / Repo Yapısı
+### 📁 Repository Structure / Repo Yapısı
 
----
-
+```text
 Input-Validation-Sanitization-Library/
 ├── .env.example
 ├── .gitignore
