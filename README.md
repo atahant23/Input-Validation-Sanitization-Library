@@ -88,11 +88,11 @@ Input-Validation-Sanitization-Library/
     ├── sanitizer.py
     └── test_sanitizer.py
 ---
-
+```
 
 ## 🚀 Getting Started / Kurulum
 
-```bash
+```
 git clone https://github.com/atahant23/Input-Validation-Sanitization-Library.git
 cd https://github.com/atahant23/Input-Validation-Sanitization-Library.git
 cp .env.example .env
