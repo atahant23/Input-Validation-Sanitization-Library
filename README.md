@@ -32,7 +32,7 @@
 |---|---|
 | **Name / Ad Soyad** | Atahan Turna |
 | **Student ID / Öğrenci No** | `***0191***` |
-| **GitHub** | [@katahant23](https://github.com/atahant23) |
+| **GitHub** | [@atahant23](https://github.com/atahant23) |
 | **Email** | [atahanturna@hotmail.com](mailto:atahanturna@hotmail.com) |
 | **LinkedIn** | [Atahan Turna](https://www.linkedin.com/in/atahan-turna-077051283//) |
 
