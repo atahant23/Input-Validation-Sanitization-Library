@@ -1,0 +1,22 @@
+# ==============================================================================
+# FINAL PROJECT: INPUT VALIDATION & SANITIZATION LIBRARY (WAF CORE)
+# ==============================================================================
+# 
+# [SECURITY PHILOSOPHY: ZERO-DEPENDENCY CORE]
+# To minimize the attack surface and prevent supply-chain vulnerabilities,
+# the core architecture relies exclusively on Python's native built-in modules:
+# - re (Advanced Regular Expressions)
+# - html (Context-Aware Entity Encoding)
+# - urllib.parse (URL Normalization & SSRF Shield)
+# - unittest (Automated Regression & Security Test Suite)
+#
+# ------------------------------------------------------------------------------
+# DEVELOPMENT & SECURITY AUDITING DEPENDENCIES (Optional for Production)
+# ------------------------------------------------------------------------------
+
+# Code Quality & PEP 8 Automation
+black==24.4.2
+
+# Automated Security Linter (Scans Python code for security vulnerabilities)
+bandit==1.7.8
+EOF
