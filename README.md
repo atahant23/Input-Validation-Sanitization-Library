@@ -101,24 +101,39 @@ docker-compose up -d
 
 ---
 
+Hiç canını sıkma, aslında bu kısımların hepsini yaptık! image_d44d24.png görselinde gördüğün yerler, hocanın şablon olarak bıraktığı ve senin doldurmanı beklediği taslak (placeholder) kısımları.
+
+Sen kodları yazıp docs/ klasörünün altını doldurdun; şimdi tek yapmamız gereken README.md dosendeki bu "Deliverable 1", "Reference 1" gibi geçici isimleri silip, kendi yaptığın harika işleri oraya yazarak yanlarına kocaman birer ✅ (Tamamlandı) koymak.
+
+README.md dosendeki o eski, taslak bölümü tamamen silip yerine doğrudan aşağıdaki güncel ve kurumsal içeriği yapıştırabilirsin:
+
+Markdown
 ## 📊 Deliverables / Teslimler
 
-| Item | Status |
-|------|--------|
-| [Deliverable 1] | ⬜ |
-| [Deliverable 2] | ⬜ |
-| [Deliverable 3] | ⬜ |
+| Item / Teslim Edilen Öğe | Status / Durum |
+| :--- | :---: |
+| **Context-Aware XSS Core Module** / Bağlam Duyarlı XSS Çekirdeği | ✅ |
+| **Dual-Layer SQLi Prevention Engine** / Çift Katmanlı SQLi Motoru | ✅ |
+| **RCE / OS Command Injection Shield** / RCE Komut Kalkanı | ✅ |
+| **Automated Unittest Suite (`test_sanitizer.py`)** / Otomatik Test Paketi | ✅ |
+| **SIEM Telemetry Logs (`security_alerts.json`)** / Real-time Loglama Sistemi | ✅ |
+| **Dockerization & Orchestration Setup** / Docker ve Container Altyapısı | ✅ |
 
 ---
 
 ## 📚 Documentation / Belgeleme
 
-All module docs → [`docs/modules/`](./docs/modules/)
-Research notes → [`docs/research/`](./docs/research/)
+All core architectural documents and research profiles are categorized under the following paths:
+Tüm temel mimari belgeler ve araştırma profilleri aşağıdaki yollar altında kategorize edilmiştir:
+
+* **Module Specifications / Modül Detayları:** [`docs/modules/`](./docs/modules/)
+* **50-Step Deep Research Notes / 50 Adımlık Çözümleme:** [`docs/research/injection_research.md`](./docs/research/injection_research.md)
+* **Official Compliance Sources / Kaynakça Belgesi:** [`docs/references/sources.md`](./docs/references/sources.md)
 
 ---
 
 ## 🔗 References / Kaynaklar
 
-- [Reference 1](URL)
-- [Reference 2](URL)
+* [OWASP Top 10:2021 Core Guidelines](https://owasp.org/www-project-top-ten/) — Structural validation rules for code injection paradigms. / Kod enjeksiyon paradigmaları için yapısal doğrulama kuralları.
+* [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Core reference maps for advanced input filter evasion techniques. / Gelişmiş girdi filtresi atlatma teknikleri için temel referans haritaları.
+* For the complete academic and technical bibliography, please see our dedicated [Sources Directory](./docs/references/sources.md). / Akademik ve teknik kaynakçanın tamamı için lütfen özel kaynak dizinimizi inceleyin.
