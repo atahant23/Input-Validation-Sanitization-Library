@@ -61,7 +61,7 @@ Bu proje, girdi tabanlı web zafiyetlerine karşı koruma sağlamak amacıyla ge
 
 ## 🗂 Repository Structure / Repo Yapısı
 
-'''
+---
 
 Input-Validation-Sanitization-Library/
 ├── .env.example
@@ -89,7 +89,7 @@ Input-Validation-Sanitization-Library/
     ├── sanitizer.py
     └── test_sanitizer.py
 
-'''
+---
 
 
 ## 🚀 Getting Started / Kurulum
