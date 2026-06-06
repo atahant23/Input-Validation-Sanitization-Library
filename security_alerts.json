@@ -1,0 +1,7 @@
+{"timestamp": "2026-06-06T22:25:02.266899", "security_module": "CMD_INJECTION", "severity_level": "CRITICAL", "detected_payload": "127.0.0.1 ; cat /etc/passwd", "mitigation_action": "COMMAND_BLOCKED"}
+{"timestamp": "2026-06-06T22:25:02.269936", "security_module": "CMD_INJECTION", "severity_level": "CRITICAL", "detected_payload": "8.8.8.8 && whoami", "mitigation_action": "COMMAND_BLOCKED"}
+{"timestamp": "2026-06-06T22:25:02.271614", "security_module": "SQLI", "severity_level": "CRITICAL", "detected_payload": "admin' OR '1'='1", "mitigation_action": "KEYWORD_BLOCKED"}
+{"timestamp": "2026-06-06T22:25:02.271933", "security_module": "SQLI", "severity_level": "CRITICAL", "detected_payload": "1 UNION SELECT username, password FROM users", "mitigation_action": "KEYWORD_BLOCKED"}
+{"timestamp": "2026-06-06T22:25:02.273299", "security_module": "XSS", "severity_level": "CRITICAL", "detected_payload": "<script>alert('Hacked')</script>", "mitigation_action": "CLEANED"}
+{"timestamp": "2026-06-06T22:25:02.273539", "security_module": "XSS", "severity_level": "CRITICAL", "detected_payload": "<sCrIpT>prompt(1)</ScRiPt>", "mitigation_action": "CLEANED"}
+{"timestamp": "2026-06-06T22:25:02.274485", "security_module": "XSS", "severity_level": "CRITICAL", "detected_payload": "<img src=x onerror=alert(1)>", "mitigation_action": "CLEANED"}
