@@ -86,8 +86,8 @@ Input-Validation-Sanitization-Library/
     ├── .gitkeep
     ├── main.py
     ├── sanitizer.py
-    ├── test_sanitizer.py
-    └── sanitizer_old.py
+    ├── sanitizer_old.py
+    └── test_sanitizer.py
 ```
 
 ## 🚀 Getting Started / Kurulum
