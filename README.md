@@ -87,7 +87,6 @@ Input-Validation-Sanitization-Library/
     ├── main.py
     ├── sanitizer.py
     └── test_sanitizer.py
-    
 ---
 
 
