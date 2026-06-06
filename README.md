@@ -101,13 +101,7 @@ docker-compose up -d
 
 ---
 
-Hiç canını sıkma, aslında bu kısımların hepsini yaptık! image_d44d24.png görselinde gördüğün yerler, hocanın şablon olarak bıraktığı ve senin doldurmanı beklediği taslak (placeholder) kısımları.
 
-Sen kodları yazıp docs/ klasörünün altını doldurdun; şimdi tek yapmamız gereken README.md dosendeki bu "Deliverable 1", "Reference 1" gibi geçici isimleri silip, kendi yaptığın harika işleri oraya yazarak yanlarına kocaman birer ✅ (Tamamlandı) koymak.
-
-README.md dosendeki o eski, taslak bölümü tamamen silip yerine doğrudan aşağıdaki güncel ve kurumsal içeriği yapıştırabilirsin:
-
-Markdown
 ## 📊 Deliverables / Teslimler
 
 | Item / Teslim Edilen Öğe | Status / Durum |
