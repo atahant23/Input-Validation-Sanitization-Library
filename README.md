@@ -128,6 +128,9 @@ Tüm temel mimari belgeler ve araştırma profilleri aşağıdaki yollar altınd
 
 ## 🔗 References / Kaynaklar
 
-* [OWASP Top 10:2021 Core Guidelines](https://owasp.org/www-project-top-ten/) — Structural validation rules for code injection paradigms. / Kod enjeksiyon paradigmaları için yapısal doğrulama kuralları.
-* [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Core reference maps for advanced input filter evasion techniques. / Gelişmiş girdi filtresi atlatma teknikleri için temel referans haritaları.
-* For the complete academic and technical bibliography, please see our dedicated [Sources Directory](./docs/references/sources.md). / Akademik ve teknik kaynakçanın tamamı için lütfen özel kaynak dizinimizi inceleyin.
+* [OWASP Top 10:2021 Core Guidelines](https://owasp.org/www-project-top-ten/) — Structural validation rules for code injection paradigms.
+* / Kod enjeksiyon paradigmaları için yapısal doğrulama kuralları.
+* [PortSwigger Web Security Academy](https://portswigger.net/web-security) — Core reference maps for advanced input filter evasion techniques.
+* / Gelişmiş girdi filtresi atlatma teknikleri için temel referans haritaları.
+* For the complete academic and technical bibliography, please see our dedicated [Sources Directory](./docs/references/sources.md).
+* / Akademik ve teknik kaynakçanın tamamı için lütfen özel kaynak dizinimizi inceleyin.
